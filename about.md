@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dk8luxahl/image/upload/c_fill,h_200,w_200/v1504971955/user.jpg" alt="경제">
+<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dk8luxah1/image/upload/c_fill,h_200,w_200/v1504971955/user.jpg" alt="경제">
 
 
 
