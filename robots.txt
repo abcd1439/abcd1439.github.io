@@ -1,3 +1,4 @@
 # robotstxt.org/
 
 User-agent: *
+Sitemap: https://abcd1439.github.io/sitemap.xml
