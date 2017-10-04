@@ -1,6 +1,6 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
+title: ECO BLOG
+email: dragontarget@naver.com
 description: Some text about your blog.
 baseurl: ""
 url: "https://abcd1439.github.io" # the base hostname & protocol for your site
@@ -9,7 +9,7 @@ google_analytics: "UA-XXXXXXXX-X"
 # User Settings
 username: Jekflix
 user_description: Some text about you.
-disqus_username: disqus_username
+disqus_username: disqus_gPEM0qX0n4
 
 # Social Media
 # Remove the item if you don't need it
