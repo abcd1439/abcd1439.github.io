@@ -13,12 +13,8 @@ disqus_username: disqus_gPEM0qX0n4
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: abcd1439
+
 
 # Build settings
 markdown: kramdown
