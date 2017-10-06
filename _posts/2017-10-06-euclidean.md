@@ -14,4 +14,6 @@ tags:
 twitter_text: 유클리드 호제법(GCD, LCM)을 배워봅시다.
 introduction: 유클리드 호제법(GCD, LCM)을 배워봅시다.
 ---
-##최대공약수GCD, Greatest Common Divisor<br/>최소공배수 LCM, Least Common multiple
+
+
+qewr
