@@ -6,7 +6,7 @@ title: "유클리드 호제법(GCD, LCM)"
 
 date: 2017-10-06 06:00:00
 
-image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760/v1502208952/algorithm.jpg'
+image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760/v1507302402/gcdlcm.jpg'
 
 description: 유클리드 호제법(GCD, LCM)을 배워봅시다.
 
@@ -32,11 +32,7 @@ introduction: 유클리드 호제법(GCD, LCM)을 배워봅시다.
 
 ## 최대공약수GCD, Greatest Common Divisor<br/>최소공배수 LCM, Least Common multiple
 
-이 값을 구하려면 어떤식으로 코딩을 해야할까요?
-
-아래 사진을 보시면 쉽게 이해하실 수 있을거예요!
-
-![gcdlcm](http://res.cloudinary.com/dk8luxah1/image/upload/v1507302402/gcdlcm.jpg)
+위 사진을 보시면 쉽게 이해하실 수 있을거예요!
 
 이해가 되셨다면 코드로 바꿔볼까요?
 
