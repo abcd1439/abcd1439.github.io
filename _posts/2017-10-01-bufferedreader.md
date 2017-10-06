@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BufferedReader"
-date: 2017-09-30 09:08:37
+date: 2017-10-01 08:00:00
 image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760/v1502208952/coding.jpg'
 description: BufferedReader 를 알아봅시다.
 category: 'JAVA'
