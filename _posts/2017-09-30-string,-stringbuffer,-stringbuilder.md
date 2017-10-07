@@ -2,7 +2,7 @@
 layout: post
 title: "String, StringBuffer, StringBuilder"
 date: 2017-09-30 11:51:23
-image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760/v1502208952/coding.jpg'
+image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760,h_400/v1502208952/coding.jpg'
 description: String, StringBuffer, StringBuilder 를 알아봅시다.
 category: 'JAVA'
 tags:
