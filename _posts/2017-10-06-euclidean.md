@@ -6,7 +6,7 @@ title: "유클리드 호제법(GCD, LCM)"
 
 date: 2017-10-06 06:00:00
 
-image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760/v1507302402/gcdlcm.jpg'
+image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760,h_400/v1507302402/gcdlcm.jpg'
 
 description: 유클리드 호제법(GCD, LCM)을 배워봅시다.
 

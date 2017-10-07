@@ -2,7 +2,7 @@
 layout: post
 title: "정규표현식"
 date: 2017-10-01 09:00:00
-image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760/v1502208952/algorithm.jpg'
+image: 'http://res.cloudinary.com/dk8luxah1/image/upload/c_scale,w_760,h_400/v1502208952/algorithm.jpg'
 description: 정규표현식을 배워봅시다.
 category: 'JAVA'
 tags:
