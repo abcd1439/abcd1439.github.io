@@ -2,7 +2,7 @@
 
 ## What is it?
 
-![Screenshot](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357238/jekflix-screenshot_qikqkl.jpg)
+![Screenshot](http://res.cloudinary.com/dk8luxah1/image/upload/v1508594432/screenshot.png)
 
 ## Features
 
