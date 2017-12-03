@@ -1,6 +1,6 @@
 # ECO BLOG
 
-[blog link](https://abcd1439.github.io/)
+[BLOG LINK](https://abcd1439.github.io/)
 
 ## What is it?
 
